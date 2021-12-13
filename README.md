@@ -1,7 +1,6 @@
 ### Hi there 👋, I am Phanindhar
 #### Data Science || AI || Digital Marketing
-![Alt Text](https://media1.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif)
-<img src="https://media1.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif" width="40" height="40" />
+<img src="https://media1.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif" width="250" height="250" />
 
 
 
