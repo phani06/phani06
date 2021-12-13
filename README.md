@@ -1,6 +1,8 @@
 ### Hi there 👋, I am Phanindhar
 #### Data Science || AI || Digital Marketing
-![Data Science || AI || Digital Marketing](https://www.google.com/search?q=computer+gifs&tbm=isch&ved=2ahUKEwiwzoj6oeD0AhU5jtgFHR3GB5AQ2-cCegQIABAA&oq=computer+&gs_lcp=CgNpbWcQARgAMgQIABBDMgQIABBDMgcIABCxAxBDMgQIABBDMgQIABBDMgQIABBDMgQIABBDMggIABCABBCxAzIECAAQQzIECAAQQzoHCCMQ7wMQJzoKCCMQ7wMQ6gIQJ1DQBljVKmDjM2gBcAB4AIABnwGIAdkKkgEEMC4xMJgBAKABAaoBC2d3cy13aXotaW1nsAEKwAEB&sclient=img&ei=1_e2YfCGF7mc4t4PnYyfgAk&bih=789&biw=1440&rlz=1C5CHFA_enIN892IN892#imgrc=BxSFT0QC5RIiSM)
+![Alt Text](https://www.google.com/search?q=computer+gifs&tbm=isch&ved=2ahUKEwiwzoj6oeD0AhU5jtgFHR3GB5AQ2-cCegQIABAA&oq=computer+&gs_lcp=CgNpbWcQARgAMgQIABBDMgQIABBDMgcIABCxAxBDMgQIABBDMgQIABBDMgQIABBDMgQIABBDMggIABCABBCxAzIECAAQQzIECAAQQzoHCCMQ7wMQJzoKCCMQ7wMQ6gIQJ1DQBljVKmDjM2gBcAB4AIABnwGIAdkKkgEEMC4xMJgBAKABAaoBC2d3cy13aXotaW1nsAEKwAEB&sclient=img&ei=1_e2YfCGF7mc4t4PnYyfgAk&bih=789&biw=1440&rlz=1C5CHFA_enIN892IN892#imgrc=BxSFT0QC5RIiSM)
+
+
 
 I'm Phanindhar, I'm a Computer Science student of SRM Institute of Science and Technology, Kattankulathur, I'm a Machine learning Enthusiast. I really enjoy learning languages and explore things.
 
