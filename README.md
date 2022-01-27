@@ -9,8 +9,7 @@ I'm Phanindhar, I'm a Computer Science student of SRM Institute of Science and T
 Skills: PYTHON / C++ / C
 
 - 🔭 I’m currently working on Machine learning and Artificial intelligence 
-- 📫 I am open to work opportunities. For quick chat, reach out me on: [LinkedIn](https://www.linkedin.com/in/phani6/) ,
-                                                                       [Github](https://github.com/phani06)
+- 📫 I am open to work opportunities.
 
 
 ### 🤝🏻 &nbsp;Connect with Me
