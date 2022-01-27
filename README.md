@@ -13,5 +13,5 @@ Skills: PYTHON / C++ / C
                                                                        [Github](https://github.com/phani06)
 
 
-https://www.facebook.com/sharer.php?u={https://www.facebook.com/telukuntla.phanindhar/} https://twitter.com/intent/tweet?url={https://twitter.com/fphani6}&text={title}&via={user_id}&hashtags={hash_tags} https://www.linkedin.com/sharing/share-offsite/?url={https://www.linkedin.com/in/phani6/} 
+https://www.facebook.com/sharer.php?u={https://www.facebook.com/telukuntla.phanindhar/} https://twitter.com/intent/tweet?url={https://twitter.com/fphani6}&text={title}&via={user_id}&hashtags={hash_tags}  https://www.linkedin.com/sharing/share-offsite/?url={https://www.linkedin.com/in/phani6/} 
 
