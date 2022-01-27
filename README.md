@@ -19,4 +19,5 @@ Skills: PYTHON / C++ / C
 <a href="mailto:phani7671@gmail.com"><img src="https://img.shields.io/badge/-phani7671@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/fphani/"><img src="https://img.shields.io/badge/-@fphani-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/telukuntla.phanindhar/"><img src="https://img.shields.io/badge/-@Phanindhar T-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://twitter.com/fphani6"><img src="https://img.shields.io/badge/fphani6-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
