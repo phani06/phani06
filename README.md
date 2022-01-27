@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Phanindhar
 #### Data Science || AI || Digital Marketing
-![](https://komarev.com/ghpvc/?phani06=your-github-username&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=phani06&style=plastic&label=PROFILE+VIEWS)
 
 ![Alt Text](https://media1.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif)
 
