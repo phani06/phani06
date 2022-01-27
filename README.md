@@ -13,7 +13,5 @@ Skills: PYTHON / C++ / C
                                                                        [Github](https://github.com/phani06)
 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/phani06)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/phani6/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/fphani//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/fphani6)  
-
+https://www.facebook.com/sharer.php?u={https://www.facebook.com/telukuntla.phanindhar/} https://twitter.com/intent/tweet?url={https://twitter.com/fphani6}&text={title}&via={user_id}&hashtags={hash_tags} https://www.linkedin.com/sharing/share-offsite/?url={https://www.linkedin.com/in/phani6/} 
 
