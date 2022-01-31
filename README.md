@@ -14,7 +14,7 @@ Skills: PYTHON / C++ / C
 - 📫 I am open to work opportunities.
 
 
-### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 &nbsp;And yes! My inbox 📧 is always open. Let's connect! 🙋🏻‍♂
 
 <p align="center">
 <a href="https://www.linkedin.com/in/phani6/"><img src="https://img.shields.io/badge/-Phanindhar T-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
