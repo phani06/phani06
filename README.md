@@ -23,7 +23,6 @@ Skills: PYTHON / C++ / C
 <a href="https://www.facebook.com/telukuntla.phanindhar/"><img src="https://img.shields.io/badge/-@Phanindhar T-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
-[![Phani's GitHub stats](https://github-readme-stats.vercel.app/api?username=phani06)](https://github.com/phani06/github-readme-stats)
-![Phani's GitHub stats](https://github-readme-stats.vercel.app/api?username=phani06&show_icons=true)
+
 ![Phani's GitHub stats](https://github-readme-stats.vercel.app/api?username=phani06&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phani06&layout=compact)](https://github.com/phani06/github-readme-stats)
