@@ -25,4 +25,5 @@ Skills: PYTHON / C++ / C
 
 
 ![Phani's GitHub stats](https://github-readme-stats.vercel.app/api?username=phani06&show_icons=true&theme=radical)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phani06&layout=compact)](https://github.com/phani06/github-readme-stats)
