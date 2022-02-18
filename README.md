@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Phanindhar
-#### Data Science || AI || Digital Marketing
+#### Data Science || AI || Machine learning
 ![](https://komarev.com/ghpvc/?username=phani06&style=plastic&label=PROFILE+VIEWS)
 
 
