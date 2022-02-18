@@ -3,10 +3,9 @@
 ![](https://komarev.com/ghpvc/?username=phani06&style=plastic&label=PROFILE+VIEWS)
 
 
+![Red and Purple Motivational Quotes LinkedIn Banner (1)](https://user-images.githubusercontent.com/67418559/154670730-19083bb6-18e6-470c-8c65-b9ed11734312.gif)
 
-![Red and Purple Motivational Quotes LinkedIn Banner](https://user-images.githubusercontent.com/67418559/154623120-96f2b296-f45c-4568-a624-dcf350c0da3c.gif)
 
-![Red and Purple Motivational Quotes LinkedIn Banner (1)](https://user-images.githubusercontent.com/67418559/154669220-f435e15f-efcb-4669-b7fa-00e9c811b61c.gif)
 
 
 
