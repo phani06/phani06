@@ -6,6 +6,7 @@
 
 ![Red and Purple Motivational Quotes LinkedIn Banner](https://user-images.githubusercontent.com/67418559/154623120-96f2b296-f45c-4568-a624-dcf350c0da3c.gif)
 
+![Red and Purple Motivational Quotes LinkedIn Banner (1)](https://user-images.githubusercontent.com/67418559/154623974-013fad5f-82ed-485b-9b53-7802d15e2da5.gif)
 
 
 
