@@ -10,7 +10,7 @@
 
 
 
-I'm Phanindhar, I'm a Computer Science student of SRM Institute of Science and Technology, Kattankulathur, I'm a Machine learning Enthusiast. I really enjoy learning languages and explore things.
+I'm a Computer Science student of SRM Institute of Science and Technology, Kattankulathur, I'm a Machine learning Enthusiast. I really enjoy learning languages and explore things.
 
 Skills: PYTHON / C++ / C
 
