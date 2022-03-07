@@ -32,4 +32,4 @@ Skills: PYTHON / C++ / C
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phani06&layout=compact)](https://github.com/phani06/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=phani061&theme=dark)](https://github.com/phani06/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=phani06&theme=dark)](https://git.io/streak-stats)
