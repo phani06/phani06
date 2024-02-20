@@ -14,7 +14,7 @@ Master’s of Science in Computer Science student at George Mason University wit
 Passionate about learning applying theoretical knowledge to real-world scenarios. Eager to contribute as a
 Graduate Research Assistant and grow professionally while making meaningful contributions to research initiatives
 and gain hands-on experience.
-Skills: PYTHON / C++ / C
+
 
 - 🔭 I’m currently working on Machine learning and Artificial intelligence 
 - 📫 I am open to work opportunities.
