@@ -10,8 +10,10 @@
 
 
 
-I'm a MSCS student of George Mason Univeristy Fairfax VA, I'm a Machine learning Enthusiast. I really enjoy learning languages and explore things.
-
+Master’s of Science in Computer Science student at George Mason University with Strong academic foundation.
+Passionate about learning applying theoretical knowledge to real-world scenarios. Eager to contribute as a
+Graduate Research Assistant and grow professionally while making meaningful contributions to research initiatives
+and gain hands-on experience.
 Skills: PYTHON / C++ / C
 
 - 🔭 I’m currently working on Machine learning and Artificial intelligence 
