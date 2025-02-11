@@ -7,18 +7,19 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/phani6/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" style="fill: #0A66C2;" />
+    <img align="center" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" width="120" />
   </a>
   <a href="mailto:phani7671@gmail.com" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Gmail" height="30" width="40" style="fill: #EA4335;" />
+    <img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="30" width="100" />
   </a>
   <a href="https://www.instagram.com/fphani/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30" width="40" style="fill: #E4405F;" />
+    <img align="center" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="30" width="130" />
   </a>
   <a href="https://www.facebook.com/telukuntla.phanindhar/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" height="30" width="40" style="fill: #1877F2;" />
+    <img align="center" src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="30" width="130" />
   </a>
 </p>
+
 
 
 
