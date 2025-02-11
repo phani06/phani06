@@ -6,19 +6,20 @@
 <h3 align="center">Data Science | AI | Machine Learning Enthusiast</h3>
 
 <p align="center">
-  <a href="________" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" style="color: #0A66C2;" />
+  <a href="https://www.linkedin.com/in/phani6/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" style="fill: #0A66C2;" />
   </a>
-  <a href="_____" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" height="30" width="40" style="color: #1877F2;" />
+  <a href="mailto:phani7671@gmail.com" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Gmail" height="30" width="40" style="fill: #EA4335;" />
   </a>
-  <a href="______" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30" width="40" style="color: #E4405F;" />
+  <a href="https://www.instagram.com/fphani/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30" width="40" style="fill: #E4405F;" />
   </a>
-  <a href="_______">
-    <img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" style="color: #EA4335;" />
+  <a href="https://www.facebook.com/telukuntla.phanindhar/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" height="30" width="40" style="fill: #1877F2;" />
   </a>
 </p>
+
 
 
 <p align="center">
